@@ -3,4 +3,6 @@ Rencana Konten WPU:
 - Belajar React 
 - Belajar Svelte
 - Belajar MongoDB dan Redis
+- Belajar Data Struktur dan Algorithm JavaScript (Mungkin)
 - Belajar GraphQL dan Mencoba deploy Vercel
+
