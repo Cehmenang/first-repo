@@ -1,0 +1,5 @@
+Rencana Konten WPU:
+- Buka Mixue cabang Jatiwangy
+- Belajar React 
+- Belajar Svelte
+- Belajar MongoDB dan Redis
