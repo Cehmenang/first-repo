@@ -1,2 +1,3 @@
 Halo dari Repo Pertama 2023 :
 - Jadi Junior Javascript Fullstack Developer
+- Bisa Make Front End Framework JS
